@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Vinesh Redkar
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation:b0rn2pwn
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Vinesh
+last_name: Redkar
 
 # Status emoji
 status:
@@ -17,18 +17,25 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Senior Security Architect 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Emirates NBD
+    url: https://emiratesnbd.com
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Security professional with over 10 years of experience in the security domain across various industries such as Finance, Insurance, Telecom, and government.
 
 # Interests to show in About widget
 interests:
+  - Vulnerability Assessment
+  - Penetration Testing
+  - Web/Mobile /API Security
+  - OWASP/WASC
+  - Source Code Review
+  - Infrastructure Security
+  - Cloud Security
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
@@ -36,15 +43,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Bachelor of Engineering in Information Technology
+      institution: Mumbai University
+      year: 2010
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -96,7 +97,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/b0rn2pwn
     label: Follow me on Twitter
     display:
       header: true
@@ -105,10 +106,10 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/vinesh1989/
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/vinesh-redkar-aab01549
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
